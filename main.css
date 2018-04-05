@@ -3,6 +3,14 @@
  } 
 
 
+.all{
+background: #a180dc;
+}
+
+.all:hover {
+ background: #ffffff;
+}
+
 
 
 .now{
@@ -120,6 +128,58 @@ color: #4169e1;
 color: #8a2be2;
 }
 
+.space{
+height:150px
+}
+
+
+.sub2{
+width: 100%;
+display: table;
+  table-layout: fixed;
+}
+
+.welcome4{
+display: table-cell;
+  vertical-align: middle;
+color: #8bc34a;
+}
+
+.discord5{
+color: #016e15;
+}
+
+
+
+.betanow6{
+color: #146179;
+}
+
+
+.sub{
+width: 100%;
+display: table;
+  table-layout: fixed;
+}
+
+.welcome1{
+display: table-cell;
+  vertical-align: middle;
+color: #edd11c;
+}
+
+.discord2{
+display: table-cell;
+  vertical-align: middle;
+color: #edb21c;
+}
+
+
+
+.betanow3{
+color: #ed651c;
+}
+
 
 
 .main{
@@ -153,6 +213,63 @@ height: 2px;
   width: 100%;
   height: 2px;
   background-color: #8a2be2;
+  border: 0;
+}
+
+
+
+.bar4{
+background-color: #edd11c;
+border: 0;
+display: block;
+width: 100%;
+height: 2px;
+}
+
+
+.bar5{
+background-color: #edb21c;
+border: 0;
+display: block;
+width: 100%;
+height: 2px;
+}
+
+
+.bar6{
+ display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #ed651c;
+  border: 0;
+}
+
+
+
+
+.bar7{
+background-color: #8bc34a;
+border: 0;
+display: block;
+width: 100%;
+height: 2px;
+}
+
+
+.bar8{
+background-color: #016e15;
+border: 0;
+display: block;
+width: 100%;
+height: 2px;
+}
+
+
+.bar9{
+ display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #146179;
   border: 0;
 }
 
