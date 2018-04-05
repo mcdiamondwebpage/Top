@@ -94,7 +94,7 @@ color: #8a2be2;
 
 .main{
 width: 100%;
-  display: table;
+display: table;
   table-layout: fixed;
 }
 
